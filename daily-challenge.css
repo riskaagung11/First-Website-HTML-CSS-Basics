@@ -17,4 +17,6 @@ a:hover {
 }
 #todays-challenge {
   color: #aa6053;
+  font-weight: bold;
+  font-size: 52px;
 }
