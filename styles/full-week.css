@@ -3,6 +3,9 @@ h1 {
   color: #483e3e;
   margin: 12px 0;
 }
+#description {
+  margin-bottom: 36px;
+}
 a {
   padding: 12px 48px;
   background-color: #a7014e;
@@ -26,4 +29,12 @@ li {
   background-color: #df887c;
   border-radius: 6px;
   margin: 32px;
+}
+h2 {
+  color: #4e0d05;
+  font-family: "Oswald", sans-serif;
+}
+main p {
+  margin: 12px;
+  color: rgb(71, 29, 22);
 }
